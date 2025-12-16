@@ -1,2 +1,2 @@
 print("Hi !")
-pommes = 2
+pommes = 5
